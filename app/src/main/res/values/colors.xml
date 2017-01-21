@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#1b0404</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorMain">#fd4258</color>
+    <color name="colorBlack">#290505</color>
+
+
+    <drawable name="color_red">#fffa3d39</drawable>
+    <drawable name="color_green">#ff00adba</drawable>
+    <drawable name="color_gray">#fff4f4f8</drawable>
 </resources>
